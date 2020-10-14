@@ -1,0 +1,20 @@
+<resources>
+    <string name="initextone">
+        ini dari textone
+        Ini adalah mainactivity2, tugas android studio..
+        milik Fahmi Aditia E32190486
+        prodi: Teknik Komputer
+        jurusan: Teknologi Informasi
+    </string>
+    <string name="initexttwo">
+        ini dari texttwo
+        hai nama saya Fahmi Aditia
+        saya berasal dari situbondo dan sekarang
+        kuliah di Politeknik Negeri Jember
+    </string>
+    <string name="initextthree">
+        ini dari textthree
+        sekarang saya sudah semester 3,
+        kuliah saat ini merupakan perjuangan
+    </string>
+</resources>
